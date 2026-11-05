@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Gokulnaath N: AI/ML Developer. Data Science, Deep Learning, Applied AI." width="100%">
+
+<img width="947" height="298" alt="image" src="https://github.com/user-attachments/assets/7558f0b7-d7de-432b-8666-4fe8182350de" />
+
 
 **AI/ML Developer | Data Science | Deep Learning | Applied Artificial Intelligence**
 
